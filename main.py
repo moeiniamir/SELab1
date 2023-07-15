@@ -6,7 +6,10 @@ CONFIG = {
     'domain': 'example.com',
     'user': 'root',
     'timeout': 5,
-    'interval': 60 * 3
+    'interval': 60 * 3,
+    'cf_token': 'Bearer 80',
+    'cf_zone_id': '80',
+    'cf_domain_id': '80',
 }
 
 
