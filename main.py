@@ -6,7 +6,8 @@ CONFIG = {
     'domain': 'example.com',
     'user': 'root',
     'timeout': 5,
-    'interval': 60 * 3
+    'interval': 60 * 3,
+    'hetzner_api_token': '123'
 }
 
 
