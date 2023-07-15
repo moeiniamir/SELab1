@@ -9,6 +9,9 @@ CONFIG = {
     'interval': 60 * 3,
     'private_key_path': '/home/user/.ssh/id_rsa',
     'hetzner_api_token': '123',
+    'cf_token': 'Bearer 80',
+    'cf_zone_id': '80',
+    'cf_domain_id': '80',
 }
 
 
